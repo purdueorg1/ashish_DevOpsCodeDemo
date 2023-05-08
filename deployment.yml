@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
        - name: app
-         image: edu123/devopsimage:4
+         image: ashishdubey195/devopsimage2:6
         
 ---
 kind: Service
